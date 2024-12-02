@@ -37,6 +37,7 @@ https://gemini.google.com/
 
 ### Google Workspace용 Gemini 시작하기 문서 :
 https://support.google.com/a/users/answer/14590328?sjid=13399202741221561969-AP
+https://support.google.com/docs/answer/13952129?hl=ko
 <br>
 
 #### Gemini API 문서 :
