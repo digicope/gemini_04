@@ -14,13 +14,12 @@
 <br>
 
 ### [Google Gemini 실습 링크]
-<br>
 
-### Getting Started with the Vertex AI Gemini API and Python SDK :
+#### Getting Started with the Vertex AI Gemini API and Python SDK :
 https://www.cloudskillsboost.google/focuses/86503?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&locale=en&parent=catalog&search_id=30786163
 <br>
 
-### Multimodality with Gemini :
+#### Multimodality with Gemini :
 https://www.cloudskillsboost.google/focuses/83263?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&locale=en&parent=catalog&search_id=30786323
 <br>
 
