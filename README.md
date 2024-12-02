@@ -13,11 +13,14 @@
 <br>
 <br>
 
+### Gemini 참고 사이트
+<br>
+
 #### Google Gemini :
 https://gemini.google.com/
 <br>
 
-### Google Workspace용 Gemini 시작하기 :
+### Google Workspace용 Gemini 시작하기 문서 :
 https://support.google.com/a/users/answer/14590328?sjid=13399202741221561969-AP
 <br>
 
