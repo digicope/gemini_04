@@ -48,6 +48,10 @@ https://ai.google.dev/gemini-api/docs/api-key?hl=ko
 #### Gemini API Key 발급 :
 https://aistudio.google.com/app/apikey?hl=ko
 <br>
+
+####  프롬프트 엔지니어링 가이드 :  
+https://www.promptingguide.ai/kr
+<br>
 <br>
 
 
