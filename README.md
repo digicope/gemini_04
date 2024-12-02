@@ -13,7 +13,7 @@
 <br>
 <br>
 
-### Gemini 실습 링크
+### [Google Gemini 실습 링크]
 <br>
 
 ### Getting Started with the Vertex AI Gemini API and Python SDK :
@@ -29,10 +29,10 @@ https://www.cloudskillsboost.google/paths/249
 <br>
 <br>
 
-### [Gemini 참고 사이트]
+### [Google Gemini 참고 사이트]
 <br>
 
-#### Google Gemini :
+#### Google Gemini 홈페이지 :
 https://gemini.google.com/
 <br>
 
