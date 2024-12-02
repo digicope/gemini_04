@@ -17,6 +17,10 @@
 https://gemini.google.com/
 <br>
 
+### Google Workspace용 Gemini 시작하기 :
+https://support.google.com/a/users/answer/14590328?sjid=13399202741221561969-AP
+<br>
+
 #### Gemini API 문서 :
 https://ai.google.dev/gemini-api/docs/api-key?hl=ko
 <br>
