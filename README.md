@@ -29,7 +29,6 @@ https://www.cloudskillsboost.google/paths/249
 <br>
 
 ### [Google Gemini 참고 사이트]
-<br>
 
 #### Google Gemini 홈페이지 :
 https://gemini.google.com/
