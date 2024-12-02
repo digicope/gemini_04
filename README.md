@@ -13,7 +13,14 @@
 <br>
 <br>
 
-### Gemini 참고 사이트
+### Gemini 실습 링크
+<br>
+
+#### Gemini for Google Workspace :
+https://www.cloudskillsboost.google/paths/249
+<br>
+
+### [Gemini 참고 사이트]
 <br>
 
 #### Google Gemini :
