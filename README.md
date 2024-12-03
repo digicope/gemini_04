@@ -35,6 +35,10 @@ https://www.cloudskillsboost.google/paths/249
 https://gemini.google.com/
 <br>
 
+#### Google Gemini Advanced 가입 방법 :
+https://support.google.com/gemini/answer/14517446?hl=ko&co=GENIE.Platform%3DAndroid
+<br>
+
 ### Google Workspace용 Gemini 시작하기 문서 :
 https://support.google.com/a/users/answer/14590328?sjid=13399202741221561969-AP
 <br>
